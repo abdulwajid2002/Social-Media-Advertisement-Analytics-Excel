@@ -28,6 +28,7 @@ Working from the raw dataset (`Social Media Marketing Dataset (2).xlsx`), the fo
 ---
 
 ## 📈 Dashboard Architecture & Analysis
+![Dashboard Preview](dashboard.png)
 The final workbook (`Portfolio Project.1 ABDUL WAJID.xlsx`) includes structured Pivot Tables feeding an interactive dashboard controlled by Slicers (`Campaign_Goal`, `Channel_Used`, `Age_Group`, `Gender`, `Location`, `Customer_Segment`) and a Date Timeline:
 * **Campaign Goal Engagement:** Compared average engagement scores across *Increase Sales*, *Market Expansion*, *Brand Awareness*, and *Product Launch*.
 * **Audience Breakdown:** Analyzed campaign distribution across age brackets (18–24, 25–34, 35–44, 45–60) split by Male and Female segments.
